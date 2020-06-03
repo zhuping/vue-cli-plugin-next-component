@@ -1,0 +1,26 @@
+{
+  "name": "vue-cli-plugin-next-component",
+  "version": "0.0.1",
+  "description": "vue cli plugin for Next UI component template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zhuping/vue-cli-plugin-next-component.git"
+  },
+  "keywords": [
+    "vue",
+    "cli",
+    "nextUI",
+    "component",
+    "template"
+  ],
+  "author": "zhuping.zp",
+  "license": "ISC",
+  "devDependencies": {
+    "gitconfig": "^2.0.8",
+    "uppercamelcase": "^3.0.0"
+  }
+}
